@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/davids-site/static/css/main.911ef44a.chunk.css",
+    "main.css": "/davids-site/static/css/main.f7074e73.chunk.css",
     "main.js": "/davids-site/static/js/main.b6bccd2c.chunk.js",
     "main.js.map": "/davids-site/static/js/main.b6bccd2c.chunk.js.map",
     "runtime~main.js": "/davids-site/static/js/runtime~main.4cc95c90.js",
@@ -8,9 +8,9 @@
     "static/js/2.07af2cd4.chunk.js": "/davids-site/static/js/2.07af2cd4.chunk.js",
     "static/js/2.07af2cd4.chunk.js.map": "/davids-site/static/js/2.07af2cd4.chunk.js.map",
     "index.html": "/davids-site/index.html",
-    "precache-manifest.d8808298f2c982aeaa912df2d0e8096c.js": "/davids-site/precache-manifest.d8808298f2c982aeaa912df2d0e8096c.js",
+    "precache-manifest.b97575b00bfb59196881be14916c76d9.js": "/davids-site/precache-manifest.b97575b00bfb59196881be14916c76d9.js",
     "service-worker.js": "/davids-site/service-worker.js",
-    "static/css/main.911ef44a.chunk.css.map": "/davids-site/static/css/main.911ef44a.chunk.css.map",
+    "static/css/main.f7074e73.chunk.css.map": "/davids-site/static/css/main.f7074e73.chunk.css.map",
     "static/media/facebook.png": "/davids-site/static/media/facebook.a1b1f1dd.png",
     "static/media/landing-background.jpg": "/davids-site/static/media/landing-background.3958923c.jpg",
     "static/media/logo2.jpg": "/davids-site/static/media/logo2.519abdaa.jpg",
